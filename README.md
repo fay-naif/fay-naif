@@ -49,16 +49,29 @@ I work across web technologies, data visualization and digital product prototypi
   <img src="https://img.shields.io/badge/UI%2FUX-0b1730?style=for-the-badge&color=0b1730&labelColor=0b1730&logoColor=c9ced8" alt="UI/UX">
 </p>
 
-## Featured projects
+## Projects
+
+### Machine Learning
+
+| Project | Description | Links |
+| --- | --- | --- |
+| **Energy Consumption Prediction** | Machine learning model (Extra Trees) that predicts household appliance energy use, with an interactive Streamlit app. | [Repository](https://github.com/fay-naif/Energy-Consumption-Prediction) |
+
+### Data Analysis
+
+| Project | Description | Links |
+| --- | --- | --- |
+| **Healthcare Analytics Dashboard** | Power BI report on hospital visits, billing, collection and patient flow across eight medical centers, with 65 DAX measures. | [Repository](https://github.com/fay-naif/Healthcare-Analytics-Dashboard) |
+
+**More in progress:** Integrated Business Analysis · Discount Impact Analysis · Disaster Data Analysis
+
+### Programming
 
 | Project | Description | Links |
 | --- | --- | --- |
 | **Saudi Compass** | Tourism discovery and trip-planning platform for Saudi Arabia, with an active prototype and AI-assisted features. Founder and product lead. | [Live site](https://damp-sound-5d86.young-scene-c50a.workers.dev/) |
-| **Energy Consumption Prediction** | Machine learning model (Extra Trees) that predicts household appliance energy use, with an interactive Streamlit app. | [Repository](https://github.com/fay-naif/Energy-Consumption-Prediction) |
 | **AI Vehicle Inspection** | Vehicle inspection concept exploring AI-assisted condition assessment. | Concept |
 | **Learning Fingerprint** | Adaptive-learning prototype focused on tailored learning experiences and progress insights. | Prototype |
-
-**Data analytics portfolio:** Integrated Business Analysis · Discount Impact Analysis · Healthcare Analytics · Disaster Data Analysis
 
 ## Experience
 
