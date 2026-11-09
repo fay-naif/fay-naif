@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Fay Nayef — Software Developer, Data Analyst, Founder of Saudi Compass" width="100%">
+  <img src="assets/banner.jpg" alt="Fay Naif — Programmer, Data Analyst, UI/UX Designer" width="100%">
 </p>
 
 <p align="center">
