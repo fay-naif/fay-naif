@@ -62,8 +62,9 @@ I work across web technologies, data visualization and digital product prototypi
 | Project | Description | Links |
 | --- | --- | --- |
 | **Healthcare Analytics Dashboard** | Power BI report on hospital visits, billing, collection and patient flow across eight medical centers, with 65 DAX measures. | [Repository](https://github.com/fay-naif/Healthcare-Analytics-Dashboard) |
+| **Integrated Business Analysis** | Power BI report on Superstore sales, profit, discounts and returns (2015–2018), with year-over-year analysis and 16 DAX measures. | [Repository](https://github.com/fay-naif/Integrated-Business-Analysis) |
 
-**More in progress:** Integrated Business Analysis · Discount Impact Analysis · Disaster Data Analysis
+**More in progress:** Discount Impact Analysis · Disaster Data Analysis
 
 ### Programming
 
