@@ -54,7 +54,7 @@ I work across web technologies, data visualization and digital product prototypi
 | Project | Description | Links |
 | --- | --- | --- |
 | **Saudi Compass** | Tourism discovery and trip-planning platform for Saudi Arabia, with an active prototype and AI-assisted features. Founder and product lead. | [Live site](https://damp-sound-5d86.young-scene-c50a.workers.dev/) |
-| **Energy Consumption Prediction** | Machine learning model (Extra Trees) that predicts household appliance energy use, with an interactive Streamlit app. | Coming soon |
+| **Energy Consumption Prediction** | Machine learning model (Extra Trees) that predicts household appliance energy use, with an interactive Streamlit app. | [Repository](https://github.com/fay-naif/Energy-Consumption-Prediction) |
 | **AI Vehicle Inspection** | Vehicle inspection concept exploring AI-assisted condition assessment. | Concept |
 | **Learning Fingerprint** | Adaptive-learning prototype focused on tailored learning experiences and progress insights. | Prototype |
 
