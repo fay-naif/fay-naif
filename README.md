@@ -64,8 +64,8 @@ I work across web technologies, data visualization and digital product prototypi
 | **Healthcare Analytics Dashboard** | Power BI report on hospital visits, billing, collection and patient flow across eight medical centers, with 65 DAX measures. | [Repository](https://github.com/fay-naif/Healthcare-Analytics-Dashboard) |
 | **Integrated Business Analysis** | Power BI report on Superstore sales, profit, discounts and returns (2015–2018), with year-over-year analysis and 16 DAX measures. | [Repository](https://github.com/fay-naif/Integrated-Business-Analysis) |
 | **Discount Impact Analysis** | One-page Power BI data story showing where Superstore discounts turn profit into loss, with 59 DAX measures. | [Repository](https://github.com/fay-naif/Discount-Impact-Analysis) |
+| **Natural Disasters Dashboard** | Arabic Power BI dashboard of natural disasters worldwide (1990–2025) with a world map by continent and KPIs for deaths, people affected and losses. | [Repository](https://github.com/fay-naif/Natural-Disasters-Dashboard) |
 
-**More in progress:** Disaster Data Analysis
 
 ### Programming
 
