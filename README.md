@@ -51,13 +51,14 @@ I work across web technologies, data visualization and digital product prototypi
 
 ## Projects
 
-### Machine Learning
+### 🤖 Artificial Intelligence
 
 | Project | Description | Links |
 | --- | --- | --- |
 | **Energy Consumption Prediction** | Machine learning model (Extra Trees) that predicts household appliance energy use, with an interactive Streamlit app. | [Repository](https://github.com/fay-naif/Energy-Consumption-Prediction) |
+| **AI Vehicle Inspection** | Installable bilingual web app (PWA) for AI-assisted vehicle condition inspection: upload a vehicle photo and get a condition score and inspection report. | [Repository](https://github.com/fay-naif/AI-Vehicle-Inspection) · [Live app](https://fay-naif.github.io/AI-Vehicle-Inspection/) |
 
-### Data Analysis
+### 📊 Data Analysis
 
 | Project | Description | Links |
 | --- | --- | --- |
@@ -66,13 +67,12 @@ I work across web technologies, data visualization and digital product prototypi
 | **Discount Impact Analysis** | One-page Power BI data story showing where Superstore discounts turn profit into loss, with 59 DAX measures. | [Repository](https://github.com/fay-naif/Discount-Impact-Analysis) |
 | **Natural Disasters Dashboard** | Arabic Power BI dashboard of natural disasters worldwide (1990–2025) with a world map by continent and KPIs for deaths, people affected and losses. | [Repository](https://github.com/fay-naif/Natural-Disasters-Dashboard) |
 
-
-### Programming
+### 💻 Programming
 
 | Project | Description | Links |
 | --- | --- | --- |
+| **Cyber Shield** | Arabic web platform that detects phishing links, combining URL risk analysis with a daily-updated database of 390K+ reported phishing domains. | [Repository](https://github.com/fay-naif/Cyber-Shield) · [Live site](https://fay-naif.github.io/Cyber-Shield/) |
 | **Saudi Compass** | Tourism discovery and trip-planning platform for Saudi Arabia, with an active prototype and AI-assisted features. Founder and product lead. | [Live site](https://damp-sound-5d86.young-scene-c50a.workers.dev/) |
-| **AI Vehicle Inspection** | Vehicle inspection concept exploring AI-assisted condition assessment. | Concept |
 | **Learning Fingerprint** | Adaptive-learning prototype focused on tailored learning experiences and progress insights. | Prototype |
 
 ## Experience
